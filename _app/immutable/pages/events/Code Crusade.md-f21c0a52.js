@@ -1,0 +1,51 @@
+import{S as St,i as Bt,s as xt,C as nt,w as At,x as Nt,y as Ot,z as qt,A as kt,f as Gt,t as $t,B as zt,_ as It,l as n,r as a,a as c,m as i,n as u,u as l,h as s,c as d,p as ot,b as _,H as e,E as Dt}from"../../chunks/index-019a8a31.js";import{E as Ft}from"../../chunks/Event-db49fb41.js";function Ut(R){let t,p,y,C,m,g,E,ee,te,oe,ne,x,ie,se,re,ae,A,le,ue,ce,de,T,me,k,he,fe,be,pe,ge,ve,N,_e,ye,Ee,Ce,we,Re,O,Te,ke,Ie,W,h,q,G,Le,Se,$,Be,xe,z,Ae,Ne,D,Oe,qe,F,Ge,$e,U,ze,De,w,Fe,I,Ue,He,Q,Y,K,L,je,V,X,f,H,Pe,Me,j,Je,We,P,Qe,Ye,M,Ke,Ve,S,Xe,J,B,Ze;return{c(){t=n("p"),p=n("strong"),y=a("Event Details:"),C=a(`
+	Code Crusade 2.0 is a programming contest to be held on Codechef where you can show off your
+	computer programming skills. Organized by Developer Student Club IIT Bhilai.`),m=n("br"),g=c(),E=n("strong"),ee=a("Start time:"),te=a(` 7th November 2019, 21:00 hrs IST
+	`),oe=n("br"),ne=c(),x=n("strong"),ie=a("Registration Fees:"),se=a(` No Registration Fees
+	`),re=n("br"),ae=c(),A=n("strong"),le=a("Duration:"),ue=a(` 1 Hours 45 Mins
+	`),ce=n("br"),de=c(),T=n("strong"),me=a("Event Link: "),k=n("a"),he=a("Click Me For CodeChef Link"),fe=c(),be=n("br"),pe=c(),ge=n("br"),ve=c(),N=n("strong"),_e=a("Eligibility Criteria:"),ye=n("br"),Ee=a(`Any college student with a knack for programming can
+	participate in the contest.`),Ce=n("br"),we=n("br"),Re=c(),O=n("strong"),Te=a("Rules and Regulations:"),ke=c(),Ie=n("br"),W=c(),h=n("ul"),q=n("li"),G=n("strong"),Le=a("To be eligible for the prizes you must register through the register button given below"),Se=c(),$=n("li"),Be=a(`Please do not discuss strategy, suggestions or tips in the comments during a live
+		contest.Posting questions clarifying the problem statement is ok.`),xe=c(),z=n("li"),Ae=a(`Discussing problems or any aspect of problem, on any other platform on the web, on
+		identification, could lead to banning of respective account from the contest.`),Ne=c(),D=n("li"),Oe=a(`Each program will be tested based on our critical test data. However output and input should be
+		exactly as specified in the samples provided.`),qe=c(),F=n("li"),Ge=a(`If anyone is using code from some other source in his submission, he should provide proper
+		attribution. Failing this, it may be considered plagiarism and the submission will be subject to
+		disqualification.`),$e=c(),U=n("li"),ze=a(`The number of submissions that one can make during the contest on a single problem will be
+		limited to 500.`),De=c(),w=n("li"),Fe=a(`If you are using any other online development environment, make sure that other contestants
+		don't have access to your code. As a contestant, you are responsible for making sure others
+		don't access the code that you submit. If you use
+		`),I=n("a"),Ue=a("http://ideone.com/"),He=a(`, make sure to mark your submission private
+		(not secret).`),Q=c(),Y=n("br"),K=c(),L=n("strong"),je=a("Judging Criteria:"),V=n("br"),X=c(),f=n("ul"),H=n("li"),Pe=a("All the problems have same points allotted to them."),Me=c(),j=n("li"),Je=a(`Users are ranked according to the most problems solved. Ties will be broken by the total time
+		for each user in ascending order of time.`),We=c(),P=n("li"),Qe=a(`The total time is the sum of the time consumed for each problem solved. The time consumed for a
+		solved problem is the time elapsed from the beginning of the contest to the submission of the
+		first accepted run plus 20 penalty minutes for every previously rejected run for that
+		problem(Wrong answer, Time limit exceeded, Runtime Error). There is no time consumed for a
+		problem that is not solved.`),Ye=c(),M=n("li"),Ke=a(`The decision of the organizers in declaring the results will be final. No queries in this regard
+		will be entertained.`),Ve=c(),S=n("li"),Xe=a(`Any participant found to be indulging in any form of malpractice will be immediately
+		disqualified. All the participants are expected to abide to CodeChef Code Of Conduct. In case of
+		any queries feel free to reach out to
+		`),J=n("b"),B=n("a"),Ze=a("shubhama@iitbhilai.ac.in"),this.h()},l(r){t=i(r,"P",{});var o=u(t);p=i(o,"STRONG",{});var it=u(p);y=l(it,"Event Details:"),it.forEach(s),C=l(o,`
+	Code Crusade 2.0 is a programming contest to be held on Codechef where you can show off your
+	computer programming skills. Organized by Developer Student Club IIT Bhilai.`),m=i(o,"BR",{}),g=d(o),E=i(o,"STRONG",{});var st=u(E);ee=l(st,"Start time:"),st.forEach(s),te=l(o,` 7th November 2019, 21:00 hrs IST
+	`),oe=i(o,"BR",{}),ne=d(o),x=i(o,"STRONG",{});var rt=u(x);ie=l(rt,"Registration Fees:"),rt.forEach(s),se=l(o,` No Registration Fees
+	`),re=i(o,"BR",{}),ae=d(o),A=i(o,"STRONG",{});var at=u(A);le=l(at,"Duration:"),at.forEach(s),ue=l(o,` 1 Hours 45 Mins
+	`),ce=i(o,"BR",{}),de=d(o),T=i(o,"STRONG",{});var et=u(T);me=l(et,"Event Link: "),k=i(et,"A",{href:!0});var lt=u(k);he=l(lt,"Click Me For CodeChef Link"),lt.forEach(s),et.forEach(s),fe=d(o),be=i(o,"BR",{}),pe=d(o),ge=i(o,"BR",{}),ve=d(o),N=i(o,"STRONG",{});var ut=u(N);_e=l(ut,"Eligibility Criteria:"),ut.forEach(s),ye=i(o,"BR",{}),Ee=l(o,`Any college student with a knack for programming can
+	participate in the contest.`),Ce=i(o,"BR",{}),we=i(o,"BR",{}),Re=d(o),O=i(o,"STRONG",{});var ct=u(O);Te=l(ct,"Rules and Regulations:"),ct.forEach(s),ke=d(o),Ie=i(o,"BR",{}),o.forEach(s),W=d(r),h=i(r,"UL",{});var b=u(h);q=i(b,"LI",{});var dt=u(q);G=i(dt,"STRONG",{});var mt=u(G);Le=l(mt,"To be eligible for the prizes you must register through the register button given below"),mt.forEach(s),dt.forEach(s),Se=d(b),$=i(b,"LI",{});var ht=u($);Be=l(ht,`Please do not discuss strategy, suggestions or tips in the comments during a live
+		contest.Posting questions clarifying the problem statement is ok.`),ht.forEach(s),xe=d(b),z=i(b,"LI",{});var ft=u(z);Ae=l(ft,`Discussing problems or any aspect of problem, on any other platform on the web, on
+		identification, could lead to banning of respective account from the contest.`),ft.forEach(s),Ne=d(b),D=i(b,"LI",{});var bt=u(D);Oe=l(bt,`Each program will be tested based on our critical test data. However output and input should be
+		exactly as specified in the samples provided.`),bt.forEach(s),qe=d(b),F=i(b,"LI",{});var pt=u(F);Ge=l(pt,`If anyone is using code from some other source in his submission, he should provide proper
+		attribution. Failing this, it may be considered plagiarism and the submission will be subject to
+		disqualification.`),pt.forEach(s),$e=d(b),U=i(b,"LI",{});var gt=u(U);ze=l(gt,`The number of submissions that one can make during the contest on a single problem will be
+		limited to 500.`),gt.forEach(s),De=d(b),w=i(b,"LI",{});var Z=u(w);Fe=l(Z,`If you are using any other online development environment, make sure that other contestants
+		don't have access to your code. As a contestant, you are responsible for making sure others
+		don't access the code that you submit. If you use
+		`),I=i(Z,"A",{href:!0});var vt=u(I);Ue=l(vt,"http://ideone.com/"),vt.forEach(s),He=l(Z,`, make sure to mark your submission private
+		(not secret).`),Z.forEach(s),b.forEach(s),Q=d(r),Y=i(r,"BR",{}),K=d(r),L=i(r,"STRONG",{});var _t=u(L);je=l(_t,"Judging Criteria:"),_t.forEach(s),V=i(r,"BR",{}),X=d(r),f=i(r,"UL",{});var v=u(f);H=i(v,"LI",{});var yt=u(H);Pe=l(yt,"All the problems have same points allotted to them."),yt.forEach(s),Me=d(v),j=i(v,"LI",{});var Et=u(j);Je=l(Et,`Users are ranked according to the most problems solved. Ties will be broken by the total time
+		for each user in ascending order of time.`),Et.forEach(s),We=d(v),P=i(v,"LI",{});var Ct=u(P);Qe=l(Ct,`The total time is the sum of the time consumed for each problem solved. The time consumed for a
+		solved problem is the time elapsed from the beginning of the contest to the submission of the
+		first accepted run plus 20 penalty minutes for every previously rejected run for that
+		problem(Wrong answer, Time limit exceeded, Runtime Error). There is no time consumed for a
+		problem that is not solved.`),Ct.forEach(s),Ye=d(v),M=i(v,"LI",{});var wt=u(M);Ke=l(wt,`The decision of the organizers in declaring the results will be final. No queries in this regard
+		will be entertained.`),wt.forEach(s),Ve=d(v),S=i(v,"LI",{});var tt=u(S);Xe=l(tt,`Any participant found to be indulging in any form of malpractice will be immediately
+		disqualified. All the participants are expected to abide to CodeChef Code Of Conduct. In case of
+		any queries feel free to reach out to
+		`),J=i(tt,"B",{});var Rt=u(J);B=i(Rt,"A",{href:!0});var Tt=u(B);Ze=l(Tt,"shubhama@iitbhilai.ac.in"),Tt.forEach(s),Rt.forEach(s),tt.forEach(s),v.forEach(s),this.h()},h(){ot(k,"href","https://www.codechef.com/CCRU2019"),ot(I,"href","http://ideone.com/"),ot(B,"href","mailto:shubhama@iitbhilai.ac.in")},m(r,o){_(r,t,o),e(t,p),e(p,y),e(t,C),e(t,m),e(t,g),e(t,E),e(E,ee),e(t,te),e(t,oe),e(t,ne),e(t,x),e(x,ie),e(t,se),e(t,re),e(t,ae),e(t,A),e(A,le),e(t,ue),e(t,ce),e(t,de),e(t,T),e(T,me),e(T,k),e(k,he),e(t,fe),e(t,be),e(t,pe),e(t,ge),e(t,ve),e(t,N),e(N,_e),e(t,ye),e(t,Ee),e(t,Ce),e(t,we),e(t,Re),e(t,O),e(O,Te),e(t,ke),e(t,Ie),_(r,W,o),_(r,h,o),e(h,q),e(q,G),e(G,Le),e(h,Se),e(h,$),e($,Be),e(h,xe),e(h,z),e(z,Ae),e(h,Ne),e(h,D),e(D,Oe),e(h,qe),e(h,F),e(F,Ge),e(h,$e),e(h,U),e(U,ze),e(h,De),e(h,w),e(w,Fe),e(w,I),e(I,Ue),e(w,He),_(r,Q,o),_(r,Y,o),_(r,K,o),_(r,L,o),e(L,je),_(r,V,o),_(r,X,o),_(r,f,o),e(f,H),e(H,Pe),e(f,Me),e(f,j),e(j,Je),e(f,We),e(f,P),e(P,Qe),e(f,Ye),e(f,M),e(M,Ke),e(f,Ve),e(f,S),e(S,Xe),e(S,J),e(J,B),e(B,Ze)},p:Dt,d(r){r&&s(t),r&&s(W),r&&s(h),r&&s(Q),r&&s(Y),r&&s(K),r&&s(L),r&&s(V),r&&s(X),r&&s(f)}}}function Ht(R){let t,p;const y=[R[0],Lt];let C={$$slots:{default:[Ut]},$$scope:{ctx:R}};for(let m=0;m<y.length;m+=1)C=nt(C,y[m]);return t=new Ft({props:C}),{c(){At(t.$$.fragment)},l(m){Nt(t.$$.fragment,m)},m(m,g){Ot(t,m,g),p=!0},p(m,[g]){const E=g&1?qt(y,[g&1&&kt(m[0]),g&0&&kt(Lt)]):{};g&2&&(E.$$scope={dirty:g,ctx:m}),t.$set(E)},i(m){p||(Gt(t.$$.fragment,m),p=!0)},o(m){$t(t.$$.fragment,m),p=!1},d(m){zt(t,m)}}}const Lt={layout:"event",name:"Code Crusade",image:"CodeCrusade.png",imageSize:"big",registerURL:"https://forms.gle/4gYHAUo4tQ2G17uf9"};function jt(R,t,p){return R.$$set=y=>{p(0,t=nt(nt({},t),It(y)))},t=It(t),[t]}class Jt extends St{constructor(t){super(),Bt(this,t,jt,Ht,xt,{})}}export{Jt as default,Lt as metadata};
