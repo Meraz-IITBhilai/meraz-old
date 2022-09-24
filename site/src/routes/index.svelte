@@ -2,7 +2,7 @@
 	import Hero from './_Hero.svelte';
 	import 'lite-youtube-embed/src/lite-yt-embed.css';
 	import { onMount } from 'svelte';
-
+	import Glimpse from './_Glimpse.svelte'
 	onMount(() => import('lite-youtube-embed/src/lite-yt-embed'));
 </script>
 
@@ -12,6 +12,44 @@
 
 <Hero />
 
+
+
+<section class="glimpses">
+	<div class="title">
+		<h1 style="font-weight: normal">Meraz'22 Teaser</h1>
+	</div>
+	<Glimpse videoid={"W0VIHUbZ680"} />
+</section>
+
+
+<section class="glimpses">
+	<div class="title">
+		<h1 style="font-weight: normal">Meraz'19 Glimpses</h1>
+	</div>
+	<Glimpse videoid={"fjtuMhY1KK8"} />
+</section>
+
+
+<section class="glimpses">
+	<div class="title">
+		<h1 style="font-weight: normal">Meraz'18 Glimpses</h1>
+	</div>
+	<Glimpse videoid={"uOQbTb4-ejs"} />
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- OLD CODE FOR REFERENCE -->
 <!-- <section>
 	<div class="title">
 		<h1>Pronites</h1>
@@ -32,10 +70,10 @@
 		</div>
 	</div>
 </section> -->
-<section class="glimpses">
+<!-- <section class="glimpses">
 	<div class="title">
 		<h1 style="font-weight: normal">Meraz'22 Teaser</h1>
-	</div>
+	</div> -->
 	<!-- <iframe
 		src="https://www.youtube.com/embed/vrHzl-E-Pvs"
 		title="Meraz'19 Trailer"
@@ -43,7 +81,7 @@
 		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 		allowfullscreen
 	/> -->
-	<lite-youtube
+	<!-- <lite-youtube
 		videoid="W0VIHUbZ680"
 		style="background-image: url('https://i.ytimg.com/vi/W0VIHUbZ680/hqdefault.jpg');"
 	>
@@ -55,7 +93,7 @@
 <section class="glimpses">
 	<div class="title">
 		<h1 style="font-weight: normal">Meraz'19 Glimpses</h1>
-	</div>
+	</div> -->
 	<!-- <iframe
 		src="https://www.youtube.com/embed/vrHzl-E-Pvs"
 		title="Meraz'19 Trailer"
@@ -63,20 +101,20 @@
 		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 		allowfullscreen
 	/> -->
-	<lite-youtube
+	<!-- <lite-youtube
 		videoid="fjtuMhY1KK8"
 		style="background-image: url('https://i.ytimg.com/vi/fjtuMhY1KK8/hqdefault.jpg');"
 	>
 		<button type="button" class="lty-playbtn">
-			<span class="lyt-visually-hidden">Play: Meraz'19 Glimpses</span>
-		</button>
+			<span class="lyt-visually-hidden">Play: Meraz'19 Glimpses</span> -->
+		<!-- </button>
 	</lite-youtube>
 </section>
 
 <section class="glimpses">
 	<div class="title">
 		<h1 style="font-weight: normal">Meraz'18 Glimpses</h1>
-	</div>
+	</div> -->
 	<!-- <iframe
 		src="https://www.youtube.com/embed/uOQbTb4-ejs"
 		title="Meraz'18 Glimpses"
@@ -84,7 +122,7 @@
 		allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 		allowfullscreen
 	/> -->
-	<lite-youtube
+	<!-- <lite-youtube
 		videoid="uOQbTb4-ejs"
 		style="background-image: url('https://i.ytimg.com/vi/uOQbTb4-ejs/hqdefault.jpg');"
 	>
@@ -92,7 +130,7 @@
 			<span class="lyt-visually-hidden">Play: Meraz'18 Glimpses</span>
 		</button>
 	</lite-youtube>
-</section>
+</section> -->
 
 <style lang="scss">
 	section {
